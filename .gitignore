@@ -1,4 +1,10 @@
 # Logs
+node_modules/
+dist/
+coverage/
+.DS_Store
+.env
+
 logs
 *.log
 npm-debug.log*
